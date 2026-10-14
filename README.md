@@ -69,7 +69,7 @@ cartoon-generator/
 ├── requirements.txt        # Python package dependencies
 └── README.md               # Comprehensive project documentation
 
-
+```
 ## Technical Whitepaper Report
 For a deep dive into the mathematical formulations, literature review, implementation plans, and architectural decisions, read the official project whitepaper located in the [`report/`](./report/) directory:
 
