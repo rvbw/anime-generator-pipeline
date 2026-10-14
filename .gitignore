@@ -1,0 +1,20 @@
+# Ignore heavy model weights, dataset, and logs
+dataset/
+models/
+logs/
+sd-scripts/
+outputs/
+
+# Ignore all temporary images and GIFs
+*.png
+*.gif
+*.jpg
+*.jpeg
+
+# Python environment & cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+*.code-workspace
